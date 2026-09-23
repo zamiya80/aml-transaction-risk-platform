@@ -1,0 +1,9 @@
+{
+  "synthetic_customers": 300,
+  "synthetic_transactions": 6182,
+  "synthetic_banks": 12,
+  "synthetic_locations": 20,
+  "generated_alerts": 90,
+  "project": "Integrated AML & Transaction Risk Platform",
+  "generated_for": "GitHub portfolio"
+}

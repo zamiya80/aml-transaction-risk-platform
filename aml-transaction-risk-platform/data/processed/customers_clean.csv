@@ -1,0 +1,301 @@
+customer_id,customer_name,customer_type,age,home_country,home_country_code,annual_income,account_open_date,pep_flag,kyc_status
+C00001,Lily Smith,Retail,63,Ireland,IE,78073.62,2023-03-26,0,Verified
+C00002,Oscar Lewis,Retail,45,Poland,PL,51443.42,2020-06-29,0,Verified
+C00003,Isla White,Premium,68,United Kingdom,GB,40862.4,2024-06-09,0,Verified
+C00004,Charlie Brown,Retail,59,Italy,IT,82275.0,2021-04-30,0,Verified
+C00005,Isabella Clarke,Retail,58,Spain,ES,34604.93,2024-02-12,0,Verified
+C00006,Grace Brown,Premium,48,France,FR,52703.01,2019-04-16,0,Review Required
+C00007,Ava Clarke,Retail,71,Nigeria,NG,33587.08,2023-11-23,0,Verified
+C00008,George Jones,Retail,70,Türkiye,TR,58936.36,2021-06-08,0,Verified
+C00009,Emily Brown,Business,46,Australia,AU,56697.13,2019-11-08,0,Verified
+C00010,Isabella Davies,Premium,52,Singapore,SG,63209.8,2023-05-27,0,Verified
+C00011,George Clarke,Premium,55,Ireland,IE,56622.39,2023-08-08,0,Verified
+C00012,Isla Hughes,Premium,44,Poland,PL,44783.82,2024-04-15,0,Verified
+C00013,Charlie Jones,Retail,34,Poland,PL,47496.08,2023-06-26,0,Verified
+C00014,Thomas Roberts,Premium,65,France,FR,49238.97,2019-01-18,0,Verified
+C00015,Charlie Evans,Business,46,India,IN,75489.27,2023-08-20,0,Verified
+C00016,Oscar Wilson,Business,48,Nigeria,NG,77360.9,2022-09-26,0,Verified
+C00017,Grace Roberts,Premium,45,United States,US,71537.57,2023-05-24,0,Verified
+C00018,Thomas Wright,Business,25,Brazil,BR,98427.86,2024-01-10,0,Verified
+C00019,George Jones,Retail,25,Italy,IT,64975.52,2022-09-04,1,Verified
+C00020,Mia Clarke,Premium,40,Italy,IT,67326.66,2021-11-14,0,Verified
+C00021,Oscar Green,Retail,75,Nigeria,NG,22519.05,2024-08-10,0,Verified
+C00022,James Brown,Business,68,Poland,PL,97333.56,2020-11-06,0,Verified
+C00023,Charlie Brown,Premium,27,Poland,PL,45826.68,2022-08-29,0,Verified
+C00024,Noah Green,Retail,43,Netherlands,NL,53995.25,2021-09-02,0,Verified
+C00025,Ava Green,Business,39,Switzerland,CH,72955.8,2019-02-24,0,Verified
+C00026,Isla Hall,Retail,59,Italy,IT,32443.44,2022-01-13,0,Review Required
+C00027,Lily Walker,Business,72,Switzerland,CH,115054.03,2020-01-01,0,Verified
+C00028,Ava Thomas,Business,30,Spain,ES,71307.08,2021-07-03,0,Verified
+C00029,George Edwards,Business,54,India,IN,40605.27,2021-05-18,0,Verified
+C00030,Harry Edwards,Premium,39,Poland,PL,52328.72,2025-04-27,0,Verified
+C00031,Lily White,Retail,46,Netherlands,NL,85819.41,2020-09-30,0,Review Required
+C00032,Jack Johnson,Premium,35,Poland,PL,25132.95,2023-09-17,0,Verified
+C00033,William Hughes,Retail,25,Türkiye,TR,34855.17,2019-08-20,0,Verified
+C00034,James Lewis,Retail,59,United States,US,53335.53,2020-04-30,0,Verified
+C00035,George Jones,Retail,51,India,IN,18960.12,2020-02-29,0,Verified
+C00036,George Green,Business,48,France,FR,102286.9,2023-09-23,0,Verified
+C00037,Harry Lewis,Retail,28,Hong Kong,HK,36819.37,2022-11-02,0,Verified
+C00038,Mia Evans,Premium,62,United States,US,47402.16,2021-09-24,0,Verified
+C00039,Mia Hughes,Retail,31,Brazil,BR,51108.39,2021-03-02,0,Verified
+C00040,Amelia Jones,Premium,30,France,FR,29541.8,2022-11-11,0,Verified
+C00041,Amelia Thomas,Premium,75,United Arab Emirates,AE,19697.51,2022-10-26,0,Verified
+C00042,Mia Davies,Retail,37,Poland,PL,18703.79,2019-02-24,0,Verified
+C00043,George Hughes,Business,46,United States,US,142704.96,2024-02-22,0,Verified
+C00044,Grace Smith,Retail,57,Poland,PL,52751.64,2022-03-23,0,Review Required
+C00045,Sophia Edwards,Retail,50,United States,US,48662.61,2022-02-10,0,Verified
+C00046,Isla Thompson,Business,50,Nigeria,NG,64274.08,2022-06-03,1,Verified
+C00047,Oscar Johnson,Retail,41,Nigeria,NG,45789.11,2024-06-06,0,Verified
+C00048,Sophia Wilson,Premium,37,Poland,PL,16719.81,2022-08-22,0,Verified
+C00049,Leo Hall,Business,27,Ireland,IE,105023.84,2020-11-05,0,Verified
+C00050,Leo Edwards,Retail,72,United Arab Emirates,AE,72108.82,2024-01-19,0,Verified
+C00051,William Taylor,Retail,74,Switzerland,CH,24701.29,2020-07-06,0,Verified
+C00052,Emily Thompson,Retail,51,Germany,DE,26733.22,2021-06-09,0,Verified
+C00053,Lily Jones,Retail,73,India,IN,70107.85,2021-01-31,0,Verified
+C00054,Leo Green,Premium,55,Brazil,BR,41068.86,2022-05-21,0,Verified
+C00055,Charlie Thomas,Retail,30,Canada,CA,32701.75,2020-01-31,0,Verified
+C00056,Ava Hughes,Premium,74,Italy,IT,46182.13,2025-07-09,0,Verified
+C00057,Lily Lewis,Retail,67,Germany,DE,39346.95,2024-11-07,0,Review Required
+C00058,William Roberts,Retail,46,Germany,DE,47386.15,2021-01-28,0,Verified
+C00059,Emily Wright,Business,43,Türkiye,TR,113934.73,2021-06-15,0,Verified
+C00060,Ava Clarke,Premium,41,Singapore,SG,21417.57,2020-09-21,0,Review Required
+C00061,Grace Johnson,Retail,22,Switzerland,CH,108384.57,2019-10-22,0,Verified
+C00062,Harry Roberts,Business,62,Spain,ES,201060.13,2020-03-06,0,Verified
+C00063,Harry Roberts,Premium,23,Spain,ES,25676.34,2020-04-16,0,Verified
+C00064,Jack Roberts,Premium,38,Ireland,IE,41881.85,2025-05-21,0,Verified
+C00065,Olivia Taylor,Business,72,Canada,CA,195180.48,2019-02-03,0,Verified
+C00066,Charlie Wilson,Retail,21,Canada,CA,13600.07,2023-06-15,0,Verified
+C00067,Oscar Hall,Retail,72,Canada,CA,21484.3,2023-07-25,0,Verified
+C00068,George Wilson,Retail,68,Poland,PL,69506.2,2024-04-13,0,Verified
+C00069,Harry White,Retail,66,Türkiye,TR,32181.01,2019-11-11,0,Verified
+C00070,Olivia Wright,Retail,28,Australia,AU,56465.69,2022-03-18,0,Verified
+C00071,Isabella Hall,Premium,49,United States,US,28642.77,2020-11-18,1,Verified
+C00072,Harry Thomas,Business,53,Brazil,BR,99178.87,2022-08-25,0,Verified
+C00073,James Davies,Business,60,Netherlands,NL,102036.98,2019-12-03,0,Verified
+C00074,Mia Thomas,Premium,30,United Arab Emirates,AE,26268.9,2022-12-01,0,Verified
+C00075,Olivia Edwards,Retail,44,Spain,ES,30349.52,2022-01-26,1,Verified
+C00076,Emily Thomas,Retail,57,Singapore,SG,28125.41,2019-09-19,0,Verified
+C00077,Noah Taylor,Retail,46,Ireland,IE,38405.6,2020-07-12,0,Review Required
+C00078,William Thompson,Retail,72,Canada,CA,141704.33,2024-09-13,0,Verified
+C00079,James Brown,Retail,27,Poland,PL,77928.6,2021-06-17,0,Verified
+C00080,Noah Jones,Retail,73,Canada,CA,18742.52,2024-09-12,0,Verified
+C00081,Charlie White,Retail,35,Brazil,BR,22975.71,2020-07-21,0,Verified
+C00082,Leo Evans,Retail,73,Switzerland,CH,22049.9,2019-09-10,0,Verified
+C00083,Grace Evans,Retail,40,Brazil,BR,108684.95,2019-12-17,0,Verified
+C00084,Charlie Clarke,Business,71,Germany,DE,138012.65,2019-12-12,0,Verified
+C00085,Ava Green,Premium,29,Spain,ES,39019.71,2020-11-14,0,Verified
+C00086,Ava Hall,Retail,50,Brazil,BR,36276.0,2019-02-20,0,Verified
+C00087,Thomas Davies,Premium,66,Brazil,BR,54435.46,2019-05-09,0,Verified
+C00088,James Johnson,Retail,65,Australia,AU,50964.82,2021-08-02,0,Verified
+C00089,Lily Walker,Premium,61,Brazil,BR,28242.07,2024-10-01,0,Verified
+C00090,William Edwards,Premium,48,Singapore,SG,197436.25,2020-03-11,0,Verified
+C00091,Ava Green,Premium,56,Netherlands,NL,51929.41,2022-10-02,0,Verified
+C00092,Emily Johnson,Retail,21,South Africa,ZA,48487.52,2021-06-15,0,Verified
+C00093,Olivia Thomas,Retail,26,Ireland,IE,48529.98,2024-06-23,0,Review Required
+C00094,George Hughes,Premium,58,South Africa,ZA,69948.61,2019-08-26,0,Verified
+C00095,Thomas Edwards,Retail,34,India,IN,32405.59,2025-06-08,0,Verified
+C00096,James Brown,Premium,55,Italy,IT,35765.2,2023-03-22,0,Verified
+C00097,William Hughes,Retail,66,United States,US,45676.27,2022-07-10,0,Verified
+C00098,Amelia Hughes,Business,66,United States,US,79007.44,2022-01-15,0,Verified
+C00099,Grace Clarke,Premium,34,Singapore,SG,34230.48,2020-10-01,0,Verified
+C00100,William White,Premium,30,Singapore,SG,108604.43,2021-09-27,0,Verified
+C00101,Isla Edwards,Retail,48,Poland,PL,35057.19,2021-05-29,0,Verified
+C00102,Noah Green,Premium,31,United States,US,34943.02,2023-07-04,0,Verified
+C00103,George Johnson,Retail,57,United States,US,108901.19,2025-01-08,0,Verified
+C00104,Grace Taylor,Retail,46,United Arab Emirates,AE,109599.59,2022-07-09,0,Verified
+C00105,Harry Evans,Retail,32,United States,US,35678.76,2024-04-14,0,Verified
+C00106,Oscar White,Retail,24,Brazil,BR,72380.78,2020-11-22,0,Verified
+C00107,Leo Smith,Retail,53,Brazil,BR,37819.0,2023-07-26,0,Verified
+C00108,James Wright,Retail,55,India,IN,114322.68,2019-08-17,0,Verified
+C00109,Mia Hall,Business,49,Nigeria,NG,86746.1,2025-02-24,0,Verified
+C00110,Emily Edwards,Premium,30,Poland,PL,96432.69,2024-04-06,0,Verified
+C00111,Thomas Walker,Retail,75,Brazil,BR,24049.76,2024-03-23,0,Verified
+C00112,Oscar Wilson,Premium,60,Nigeria,NG,29036.17,2022-11-17,0,Review Required
+C00113,Thomas Lewis,Retail,30,Poland,PL,79288.35,2020-02-16,0,Verified
+C00114,Mia Wilson,Retail,47,United Kingdom,GB,49653.62,2022-01-23,0,Verified
+C00115,Thomas Walker,Retail,71,Netherlands,NL,102164.57,2024-04-02,0,Verified
+C00116,Thomas Roberts,Retail,28,United Arab Emirates,AE,58129.2,2025-02-12,0,Verified
+C00117,George Edwards,Retail,60,Brazil,BR,51432.27,2019-07-30,0,Verified
+C00118,Isabella Thomas,Retail,71,Poland,PL,65709.25,2024-02-02,0,Verified
+C00119,Emily Evans,Premium,61,France,FR,47779.19,2024-11-26,0,Verified
+C00120,Harry Edwards,Retail,64,South Africa,ZA,38726.68,2021-05-24,0,Verified
+C00121,Oscar Roberts,Business,73,India,IN,155977.69,2019-12-21,0,Verified
+C00122,Amelia Davies,Premium,61,Netherlands,NL,94866.46,2021-07-08,0,Review Required
+C00123,Ava Lewis,Retail,73,Spain,ES,46943.18,2025-02-24,0,Verified
+C00124,Jack Taylor,Retail,28,Nigeria,NG,87234.33,2021-06-22,0,Verified
+C00125,Ava Clarke,Retail,67,United States,US,56964.81,2025-04-01,0,Verified
+C00126,Isabella Hall,Premium,69,India,IN,13953.53,2023-03-09,0,Verified
+C00127,Charlie Smith,Retail,22,Türkiye,TR,44567.45,2023-07-05,0,Verified
+C00128,Isabella Hughes,Retail,60,Hong Kong,HK,21099.8,2024-06-03,0,Verified
+C00129,William Roberts,Retail,38,Brazil,BR,53488.66,2021-11-27,0,Verified
+C00130,Oscar White,Premium,61,Poland,PL,19310.49,2024-02-19,0,Verified
+C00131,Emily Taylor,Retail,23,India,IN,32401.11,2024-10-11,0,Verified
+C00132,Oscar Lewis,Retail,23,Singapore,SG,45317.91,2019-09-13,0,Verified
+C00133,Sophia Walker,Retail,58,Nigeria,NG,56216.21,2024-11-22,0,Verified
+C00134,Noah Walker,Retail,45,Ireland,IE,46800.62,2019-12-10,0,Verified
+C00135,Noah Hall,Premium,21,South Africa,ZA,55941.79,2024-12-25,0,Verified
+C00136,Mia Edwards,Retail,21,Ireland,IE,66281.12,2019-01-14,0,Verified
+C00137,Sophia Hughes,Premium,74,United States,US,18587.1,2024-04-07,0,Verified
+C00138,Thomas Thomas,Retail,34,Germany,DE,63425.01,2019-05-18,0,Verified
+C00139,Grace Green,Retail,27,India,IN,76457.82,2024-01-28,0,Verified
+C00140,Oscar Roberts,Retail,45,Poland,PL,27507.79,2019-04-07,0,Verified
+C00141,Jack Walker,Retail,59,United States,US,88423.86,2022-04-25,0,Verified
+C00142,Isla Evans,Business,25,Poland,PL,64902.72,2024-08-04,0,Verified
+C00143,Leo Green,Retail,23,Hong Kong,HK,34493.14,2020-04-08,0,Verified
+C00144,Ava Thomas,Premium,49,Spain,ES,19638.07,2025-06-10,0,Verified
+C00145,Grace Wilson,Retail,24,Australia,AU,54530.11,2023-01-19,0,Verified
+C00146,Harry Edwards,Retail,46,France,FR,69981.64,2023-08-30,0,Verified
+C00147,Sophia Edwards,Retail,63,United Kingdom,GB,23319.87,2020-03-16,0,Verified
+C00148,Noah Edwards,Business,50,Netherlands,NL,81103.43,2024-02-25,0,Verified
+C00149,George Lewis,Retail,45,Germany,DE,86837.06,2019-12-15,0,Verified
+C00150,Leo Johnson,Retail,44,France,FR,75538.46,2022-10-19,0,Verified
+C00151,Mia Clarke,Retail,45,United States,US,51858.92,2025-03-07,0,Verified
+C00152,William Thompson,Retail,58,South Africa,ZA,122820.82,2021-08-27,0,Verified
+C00153,Leo White,Retail,74,Singapore,SG,45868.31,2019-11-18,0,Verified
+C00154,Amelia Evans,Retail,54,South Africa,ZA,50443.72,2021-10-23,0,Verified
+C00155,Isla Thomas,Premium,74,Canada,CA,26557.62,2021-09-15,0,Verified
+C00156,Mia Hughes,Retail,73,Germany,DE,22716.88,2022-11-12,0,Verified
+C00157,Emily Johnson,Retail,37,Hong Kong,HK,121893.38,2021-10-01,0,Verified
+C00158,Emily Roberts,Retail,26,Singapore,SG,50851.48,2022-10-05,0,Verified
+C00159,Jack White,Premium,51,India,IN,46506.81,2023-04-05,0,Verified
+C00160,Noah Wilson,Premium,34,United States,US,75398.54,2024-03-04,0,Verified
+C00161,Lily Lewis,Premium,50,Netherlands,NL,175280.96,2023-02-11,0,Verified
+C00162,Ava Thompson,Retail,65,Singapore,SG,44168.23,2023-11-04,0,Verified
+C00163,Oscar Taylor,Retail,67,Switzerland,CH,38242.42,2022-04-23,0,Verified
+C00164,Lily Roberts,Premium,34,Brazil,BR,26293.56,2021-01-24,0,Verified
+C00165,Leo Lewis,Business,23,United States,US,129785.3,2019-10-06,0,Review Required
+C00166,Isla Edwards,Retail,66,Canada,CA,35881.89,2019-05-14,0,Verified
+C00167,Isla Lewis,Business,47,Singapore,SG,150559.84,2020-02-20,0,Verified
+C00168,Sophia Wright,Business,70,Hong Kong,HK,30110.17,2019-02-05,0,Verified
+C00169,Isla Walker,Premium,43,United Arab Emirates,AE,68718.7,2021-06-12,0,Verified
+C00170,Thomas Hall,Retail,57,Hong Kong,HK,8225.0,2019-10-15,0,Verified
+C00171,Charlie Brown,Retail,25,Germany,DE,53349.04,2025-07-17,0,Review Required
+C00172,James Hall,Business,63,Nigeria,NG,38140.72,2023-07-09,0,Verified
+C00173,Isabella Clarke,Retail,71,France,FR,40057.43,2023-03-19,0,Verified
+C00174,Jack Roberts,Premium,62,Singapore,SG,60657.84,2022-06-14,0,Verified
+C00175,Sophia Brown,Retail,43,Australia,AU,102882.23,2024-06-30,0,Verified
+C00176,Isla Johnson,Premium,32,South Africa,ZA,87562.34,2024-07-06,0,Verified
+C00177,Emily Brown,Retail,48,Poland,PL,32926.41,2021-12-11,0,Verified
+C00178,Harry Edwards,Premium,66,Spain,ES,48409.47,2023-12-18,0,Verified
+C00179,Noah White,Retail,71,Australia,AU,25029.43,2019-12-28,0,Verified
+C00180,Grace Wilson,Retail,72,Hong Kong,HK,17752.07,2019-04-18,0,Verified
+C00181,Harry Taylor,Retail,31,South Africa,ZA,78961.99,2022-03-22,0,Verified
+C00182,William Roberts,Retail,21,Brazil,BR,16611.78,2019-07-21,0,Verified
+C00183,Leo Lewis,Premium,67,Australia,AU,38057.38,2023-03-11,0,Review Required
+C00184,Oscar Hall,Business,64,Hong Kong,HK,100652.42,2024-01-05,0,Verified
+C00185,Grace Thompson,Retail,61,United Arab Emirates,AE,60469.31,2022-07-18,0,Verified
+C00186,Emily Lewis,Business,39,United Arab Emirates,AE,105936.47,2022-03-04,0,Verified
+C00187,Sophia Thompson,Retail,41,Brazil,BR,35473.07,2022-04-26,0,Verified
+C00188,Olivia Wilson,Retail,27,Italy,IT,21183.24,2024-08-02,0,Verified
+C00189,Amelia Hughes,Retail,67,India,IN,25760.21,2022-06-29,0,Verified
+C00190,Harry White,Retail,75,Singapore,SG,43198.15,2025-01-10,0,Verified
+C00191,Noah Walker,Retail,21,Italy,IT,63076.39,2021-03-24,1,Verified
+C00192,Charlie Hall,Premium,54,Nigeria,NG,56786.86,2025-02-03,0,Verified
+C00193,Sophia Hall,Premium,28,United Arab Emirates,AE,40458.65,2022-12-07,0,Verified
+C00194,Ava Thomas,Retail,30,Germany,DE,46622.51,2023-08-15,0,Verified
+C00195,Amelia Hughes,Business,65,Brazil,BR,178784.68,2023-01-28,0,Verified
+C00196,Olivia Walker,Business,56,Australia,AU,23911.33,2024-12-07,0,Verified
+C00197,Mia Wilson,Retail,55,Australia,AU,23289.36,2024-02-20,0,Verified
+C00198,Isla Davies,Retail,48,Brazil,BR,21988.76,2023-10-24,0,Verified
+C00199,Lily Thomas,Business,73,South Africa,ZA,218311.63,2023-04-19,0,Verified
+C00200,Oscar Roberts,Retail,29,India,IN,114363.73,2020-11-22,0,Verified
+C00201,Oscar Johnson,Business,56,United Kingdom,GB,36282.74,2021-04-11,0,Verified
+C00202,Isabella Lewis,Retail,48,Netherlands,NL,31542.82,2024-02-09,0,Verified
+C00203,Oscar Johnson,Premium,68,Brazil,BR,15822.62,2022-01-20,0,Verified
+C00204,Amelia Thomas,Business,25,Nigeria,NG,181409.27,2024-03-19,0,Verified
+C00205,Ava Smith,Retail,50,Türkiye,TR,56559.43,2024-04-08,0,Review Required
+C00206,Leo Jones,Retail,34,Nigeria,NG,16619.74,2019-03-30,0,Verified
+C00207,Ava Thomas,Premium,41,Hong Kong,HK,47802.19,2019-09-20,0,Verified
+C00208,Jack Clarke,Retail,57,Türkiye,TR,26951.53,2024-01-31,0,Verified
+C00209,Olivia Johnson,Premium,42,Italy,IT,47969.92,2024-04-06,0,Verified
+C00210,Harry Taylor,Retail,26,France,FR,32960.53,2023-02-01,1,Verified
+C00211,Isla Evans,Premium,73,United Arab Emirates,AE,29869.96,2022-05-20,1,Verified
+C00212,Isabella Green,Business,62,Poland,PL,71765.84,2021-08-21,0,Verified
+C00213,Noah Edwards,Premium,35,Canada,CA,11141.09,2020-07-24,0,Review Required
+C00214,Charlie Brown,Premium,63,Australia,AU,33608.25,2024-08-10,0,Verified
+C00215,Emily Thompson,Retail,45,Germany,DE,35882.4,2021-08-10,0,Review Required
+C00216,Thomas Smith,Retail,68,Poland,PL,57767.61,2020-03-26,0,Verified
+C00217,Noah Lewis,Retail,45,Spain,ES,61696.54,2023-09-19,0,Verified
+C00218,Emily Edwards,Retail,56,Türkiye,TR,34887.92,2020-12-12,0,Verified
+C00219,Lily Thomas,Retail,27,Poland,PL,16212.79,2022-10-11,0,Verified
+C00220,Ava White,Business,48,Singapore,SG,248666.7,2025-01-05,0,Verified
+C00221,Ava Edwards,Business,26,France,FR,49045.69,2021-05-26,0,Verified
+C00222,Harry Thompson,Business,51,United States,US,55803.34,2019-02-12,0,Verified
+C00223,Harry White,Retail,69,Poland,PL,35148.58,2021-04-03,0,Verified
+C00224,Noah Jones,Premium,73,Hong Kong,HK,25567.88,2023-12-10,0,Verified
+C00225,Emily Wright,Retail,40,Ireland,IE,16437.43,2024-11-22,0,Verified
+C00226,Isabella Jones,Retail,69,Türkiye,TR,31505.88,2024-12-21,0,Verified
+C00227,Oscar Taylor,Business,32,Ireland,IE,104544.52,2022-11-18,0,Verified
+C00228,Olivia Walker,Business,68,South Africa,ZA,142523.09,2020-08-02,0,Verified
+C00229,Jack Taylor,Premium,40,Italy,IT,51908.18,2024-09-29,0,Verified
+C00230,Jack Thomas,Retail,34,Poland,PL,38315.68,2024-03-15,0,Verified
+C00231,Lily Smith,Premium,68,Italy,IT,83606.26,2022-02-17,0,Verified
+C00232,Grace Roberts,Business,35,Italy,IT,68329.73,2024-05-09,0,Verified
+C00233,James Wilson,Premium,46,Spain,ES,64884.62,2020-03-20,0,Verified
+C00234,James Davies,Retail,44,United States,US,33249.64,2023-04-17,0,Verified
+C00235,William Brown,Premium,72,Italy,IT,70902.03,2021-11-05,0,Verified
+C00236,Isabella Green,Retail,61,Hong Kong,HK,27312.4,2019-09-05,0,Verified
+C00237,Lily Jones,Retail,52,Singapore,SG,25389.45,2019-06-07,0,Verified
+C00238,James Jones,Retail,64,Switzerland,CH,36704.02,2021-01-20,0,Review Required
+C00239,Amelia Edwards,Retail,55,Nigeria,NG,74792.31,2021-07-11,0,Verified
+C00240,George Walker,Retail,45,Singapore,SG,57103.85,2020-05-11,0,Verified
+C00241,Lily Lewis,Retail,33,Germany,DE,41685.94,2021-09-26,0,Verified
+C00242,Lily Green,Retail,43,United Arab Emirates,AE,41721.77,2024-09-01,0,Verified
+C00243,Amelia Brown,Premium,36,Switzerland,CH,17774.36,2022-03-20,0,Verified
+C00244,Jack White,Premium,51,Poland,PL,23936.76,2024-02-17,0,Verified
+C00245,Oscar Thompson,Retail,33,United States,US,11980.3,2021-02-12,0,Verified
+C00246,Charlie Roberts,Retail,68,Spain,ES,93814.37,2023-06-28,0,Verified
+C00247,Sophia Taylor,Premium,34,Italy,IT,22434.08,2025-02-10,0,Verified
+C00248,Amelia Wright,Retail,68,Germany,DE,43367.94,2023-09-04,0,Verified
+C00249,Grace Hall,Retail,38,Poland,PL,48942.62,2019-11-28,1,Verified
+C00250,Mia Jones,Retail,72,Spain,ES,65465.56,2020-03-27,0,Review Required
+C00251,Amelia Lewis,Retail,59,South Africa,ZA,72866.54,2023-01-28,0,Verified
+C00252,Emily Brown,Premium,33,Italy,IT,15100.99,2022-11-17,1,Verified
+C00253,Noah Lewis,Retail,36,Poland,PL,112882.4,2024-08-10,0,Verified
+C00254,Lily Clarke,Premium,70,Brazil,BR,25698.89,2024-01-30,0,Verified
+C00255,Noah Smith,Retail,34,Poland,PL,24031.9,2025-01-14,0,Verified
+C00256,Isabella Smith,Business,71,Australia,AU,168113.01,2025-06-21,0,Verified
+C00257,Thomas Taylor,Retail,29,Italy,IT,59707.89,2021-02-03,0,Verified
+C00258,William Evans,Retail,37,United Kingdom,GB,59568.31,2020-06-03,0,Verified
+C00259,Isabella Johnson,Retail,66,Singapore,SG,50658.39,2019-07-07,0,Verified
+C00260,Olivia Wilson,Retail,42,India,IN,30931.16,2019-02-15,0,Verified
+C00261,George Roberts,Retail,67,South Africa,ZA,108702.75,2023-08-27,0,Verified
+C00262,Oscar White,Retail,27,Brazil,BR,88279.99,2024-11-06,0,Verified
+C00263,Mia Brown,Retail,63,Switzerland,CH,23017.63,2019-12-11,0,Verified
+C00264,Ava Jones,Retail,64,India,IN,20516.12,2022-05-02,1,Verified
+C00265,Jack Johnson,Retail,71,South Africa,ZA,112880.33,2019-02-09,0,Verified
+C00266,Ava Walker,Premium,42,Italy,IT,48158.74,2019-11-01,0,Verified
+C00267,Isla Wilson,Premium,43,Hong Kong,HK,23157.87,2022-07-10,0,Verified
+C00268,Isabella Taylor,Retail,60,United States,US,21115.26,2019-05-02,0,Verified
+C00269,Oscar Taylor,Retail,39,France,FR,15720.73,2023-05-12,1,Verified
+C00270,Thomas White,Retail,23,India,IN,75206.88,2022-11-30,0,Verified
+C00271,Charlie Davies,Retail,67,Nigeria,NG,26387.61,2020-08-31,0,Verified
+C00272,Isabella Taylor,Retail,49,South Africa,ZA,51742.2,2021-08-08,0,Verified
+C00273,Leo Thompson,Retail,62,Spain,ES,39053.94,2022-09-22,0,Verified
+C00274,Charlie Thomas,Business,29,Nigeria,NG,101421.68,2021-10-03,1,Verified
+C00275,Amelia Green,Retail,22,Netherlands,NL,48267.39,2024-03-25,0,Verified
+C00276,Harry Thomas,Retail,72,Türkiye,TR,49847.52,2019-08-14,0,Verified
+C00277,Lily Wilson,Retail,29,Canada,CA,48809.84,2023-06-27,0,Verified
+C00278,Sophia Hughes,Retail,35,Germany,DE,92614.61,2020-03-04,0,Verified
+C00279,Leo Clarke,Retail,75,India,IN,22165.25,2024-12-30,0,Verified
+C00280,George Edwards,Retail,69,United Arab Emirates,AE,42677.85,2023-10-27,0,Verified
+C00281,Leo Jones,Premium,43,Australia,AU,81897.96,2022-05-25,0,Verified
+C00282,Oscar Jones,Retail,50,Germany,DE,99132.83,2024-02-23,0,Verified
+C00283,George Clarke,Retail,63,Australia,AU,27759.53,2024-12-09,0,Verified
+C00284,Grace Jones,Retail,48,Nigeria,NG,92091.86,2019-08-28,0,Verified
+C00285,Charlie Clarke,Premium,46,India,IN,119755.57,2019-02-25,0,Verified
+C00286,Oscar Brown,Business,65,Italy,IT,85498.21,2023-09-23,0,Verified
+C00287,George Green,Business,55,United Arab Emirates,AE,517070.48,2021-02-04,0,Verified
+C00288,Oscar Hughes,Retail,42,France,FR,71565.88,2021-09-08,0,Verified
+C00289,Isabella Johnson,Retail,48,South Africa,ZA,69227.65,2022-01-27,0,Verified
+C00290,Olivia Walker,Premium,40,United Arab Emirates,AE,42324.3,2021-08-03,0,Verified
+C00291,Thomas Johnson,Retail,37,Spain,ES,14473.77,2023-07-01,0,Verified
+C00292,Charlie Taylor,Business,60,South Africa,ZA,40712.91,2020-08-07,0,Verified
+C00293,Ava Thompson,Business,53,Italy,IT,61459.68,2024-10-15,0,Verified
+C00294,Thomas Walker,Retail,74,Germany,DE,33577.31,2020-03-21,0,Verified
+C00295,Mia Green,Retail,46,Switzerland,CH,48962.02,2020-09-14,0,Verified
+C00296,Jack Walker,Retail,25,Türkiye,TR,43480.86,2025-04-21,0,Verified
+C00297,Harry Wilson,Retail,69,Hong Kong,HK,41716.39,2019-09-23,0,Verified
+C00298,Grace Green,Retail,38,Spain,ES,41358.55,2024-01-10,0,Verified
+C00299,Lily Wilson,Business,26,United Arab Emirates,AE,48847.44,2025-06-20,0,Verified
+C00300,Lily Davies,Retail,53,Italy,IT,49233.48,2019-06-22,0,Verified

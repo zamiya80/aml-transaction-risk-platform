@@ -1,0 +1,21 @@
+location_id,country,country_code,country_risk_score
+L001,United Kingdom,GB,1
+L002,France,FR,1
+L003,Germany,DE,1
+L004,Spain,ES,1
+L005,Italy,IT,1
+L006,Netherlands,NL,1
+L007,Ireland,IE,1
+L008,United States,US,2
+L009,Canada,CA,2
+L010,Australia,AU,2
+L011,United Arab Emirates,AE,4
+L012,Türkiye,TR,4
+L013,Nigeria,NG,5
+L014,Brazil,BR,3
+L015,Singapore,SG,2
+L016,Hong Kong,HK,3
+L017,Switzerland,CH,2
+L018,Poland,PL,2
+L019,India,IN,3
+L020,South Africa,ZA,3

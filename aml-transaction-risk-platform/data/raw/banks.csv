@@ -1,0 +1,13 @@
+bank_id,bank_name,country_code,kyc_compliance_score,monitoring_status
+B001,Northbridge Bank,GB,88.1,Review Required
+B002,Crown Financial,GB,78.7,Compliant
+B003,Harbour Trust,GB,91.3,Compliant
+B004,Metro Capital,GB,92.6,Review Required
+B005,Sterling Bank,GB,72.3,Compliant
+B006,Pioneer Finance,GB,76.9,Compliant
+B007,Riverside Bank,GB,86.9,Compliant
+B008,Summit Financial,GB,83.8,Compliant
+B009,Atlas Bank,FR,85.9,Review Required
+B010,Oakline Credit,FR,80.0,Review Required
+B011,Westminster Finance,NL,92.2,Compliant
+B012,Beacon Bank,FR,91.4,Compliant

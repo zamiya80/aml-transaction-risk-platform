@@ -1,0 +1,91 @@
+alert_id,transaction_id,customer_id,bank_id,transaction_datetime,amount,transaction_type,counterparty_country,risk_score,risk_tier,alert_reasons
+A000001,T0006170,C00197,B002,2025-01-01 05:25:00,9792.7,Cash Deposit,IT,30,Medium,Near-threshold cash deposit
+A000002,T0006171,C00197,B002,2025-01-01 06:00:00,9256.19,Cash Deposit,IT,30,Medium,Near-threshold cash deposit
+A000003,T0006172,C00197,B002,2025-01-01 06:35:00,9252.19,Cash Deposit,CH,30,Medium,Near-threshold cash deposit
+A000004,T0006173,C00197,B002,2025-01-01 07:10:00,8616.59,Cash Deposit,NG,50,High,Near-threshold cash deposit; High-risk jurisdiction
+A000005,T0006174,C00197,B002,2025-01-01 07:45:00,8109.74,Cash Deposit,NL,30,Medium,Near-threshold cash deposit
+A000006,T0006175,C00197,B002,2025-01-01 08:20:00,9387.78,Cash Deposit,HK,30,Medium,Near-threshold cash deposit
+A000007,T0006176,C00197,B002,2025-01-01 08:55:00,9515.37,Cash Deposit,IN,30,Medium,Near-threshold cash deposit
+A000008,T0006177,C00197,B002,2025-01-01 09:30:00,9279.32,Cash Deposit,IN,30,Medium,Near-threshold cash deposit
+A000009,T0002969,C00214,B011,2025-01-02 05:50:00,17836.05,Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000010,T0002873,C00153,B002,2025-03-15 08:24:00,14156.81,Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000011,T0006126,C00134,B009,2025-03-16 00:28:00,2523.64,Transfer,NG,45,High,High-risk jurisdiction; Unusually high transaction velocity
+A000012,T0006129,C00134,B009,2025-03-16 00:49:00,2978.55,Transfer,TR,45,High,High-risk jurisdiction; Unusually high transaction velocity
+A000013,T0006009,C00012,B004,2025-03-17 17:56:00,39742.18,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000014,T0006010,C00012,B004,2025-03-17 19:56:00,23493.02,International Transfer,TR,45,High,High-value transaction; High-risk jurisdiction
+A000015,T0006011,C00012,B004,2025-03-17 21:56:00,31755.4,International Transfer,NG,45,High,High-value transaction; High-risk jurisdiction
+A000016,T0006012,C00012,B004,2025-03-17 23:56:00,29957.08,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000017,T0006013,C00012,B004,2025-03-18 01:56:00,21782.74,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000018,T0006115,C00001,B009,2025-03-18 17:37:00,5280.86,Transfer,NG,45,High,High-risk jurisdiction; Unusually high transaction velocity
+A000019,T0003102,C00182,B002,2025-03-19 05:41:00,10105.35,Card,AE,45,High,High-value transaction; High-risk jurisdiction
+A000020,T0006079,C00098,B010,2025-04-26 11:22:00,9161.06,Cash Deposit,PL,30,Medium,Near-threshold cash deposit
+A000021,T0006080,C00098,B010,2025-04-26 11:57:00,9369.11,Cash Deposit,US,30,Medium,Near-threshold cash deposit
+A000022,T0006081,C00098,B010,2025-04-26 12:32:00,9086.91,Cash Deposit,ZA,30,Medium,Near-threshold cash deposit
+A000023,T0006082,C00098,B010,2025-04-26 13:07:00,9674.86,Cash Deposit,TR,50,High,Near-threshold cash deposit; High-risk jurisdiction
+A000024,T0006083,C00098,B010,2025-04-26 13:42:00,8854.03,Cash Deposit,TR,50,High,Near-threshold cash deposit; High-risk jurisdiction
+A000025,T0006084,C00098,B010,2025-04-26 14:17:00,9468.99,Cash Deposit,PL,30,Medium,Near-threshold cash deposit
+A000026,T0006085,C00098,B010,2025-04-26 14:52:00,9680.49,Cash Deposit,CA,30,Medium,Near-threshold cash deposit
+A000027,T0006086,C00098,B010,2025-04-26 15:27:00,8074.48,Cash Deposit,IT,30,Medium,Near-threshold cash deposit
+A000028,T0006054,C00244,B012,2025-04-29 15:50:00,17201.61,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000029,T0005197,C00079,B009,2025-04-29 17:42:00,15198.1,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000030,T0006055,C00244,B012,2025-04-29 17:50:00,23990.62,International Transfer,TR,45,High,High-value transaction; High-risk jurisdiction
+A000031,T0006056,C00244,B012,2025-04-29 19:50:00,38896.71,International Transfer,NG,45,High,High-value transaction; High-risk jurisdiction
+A000032,T0006057,C00244,B012,2025-04-29 21:50:00,16344.45,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000033,T0006058,C00244,B012,2025-04-29 23:50:00,33052.19,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000034,T0000666,C00206,B005,2025-05-05 23:28:00,21115.11,Transfer,TR,45,High,High-value transaction; High-risk jurisdiction
+A000035,T0006162,C00176,B001,2025-05-24 18:03:00,8811.18,Cash Deposit,US,30,Medium,Near-threshold cash deposit
+A000036,T0006163,C00176,B001,2025-05-24 18:38:00,8118.34,Cash Deposit,ES,30,Medium,Near-threshold cash deposit
+A000037,T0006164,C00176,B001,2025-05-24 19:13:00,8419.93,Cash Deposit,SG,30,Medium,Near-threshold cash deposit
+A000038,T0006165,C00176,B001,2025-05-24 19:48:00,8294.61,Cash Deposit,NG,50,High,Near-threshold cash deposit; High-risk jurisdiction
+A000039,T0006166,C00176,B001,2025-05-24 20:23:00,8961.43,Cash Deposit,HK,30,Medium,Near-threshold cash deposit
+A000040,T0006167,C00176,B001,2025-05-24 20:58:00,8534.93,Cash Deposit,CA,30,Medium,Near-threshold cash deposit
+A000041,T0006168,C00176,B001,2025-05-24 21:33:00,7811.8,Cash Deposit,IT,30,Medium,Near-threshold cash deposit
+A000042,T0006169,C00176,B001,2025-05-24 22:08:00,9625.72,Cash Deposit,ZA,30,Medium,Near-threshold cash deposit
+A000043,T0006140,C00006,B011,2025-05-25 15:43:00,3568.03,Transfer,NG,45,High,High-risk jurisdiction; Unusually high transaction velocity
+A000044,T0006014,C00168,B011,2025-05-25 21:26:00,39917.11,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000045,T0006015,C00168,B011,2025-05-25 23:26:00,30095.36,International Transfer,TR,45,High,High-value transaction; High-risk jurisdiction
+A000046,T0006016,C00168,B011,2025-05-26 01:26:00,13834.37,International Transfer,NG,45,High,High-value transaction; High-risk jurisdiction
+A000047,T0006017,C00168,B011,2025-05-26 03:26:00,35530.07,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000048,T0006018,C00168,B011,2025-05-26 05:26:00,18020.93,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000049,T0003645,C00162,B008,2025-05-31 05:24:00,7433.05,Cash Deposit,AU,30,Medium,Near-threshold cash deposit
+A000050,T0006019,C00138,B001,2025-06-10 09:37:00,27461.78,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000051,T0006020,C00138,B001,2025-06-10 11:37:00,28054.07,International Transfer,TR,45,High,High-value transaction; High-risk jurisdiction
+A000052,T0006021,C00138,B001,2025-06-10 13:37:00,13023.46,International Transfer,NG,45,High,High-value transaction; High-risk jurisdiction
+A000053,T0006022,C00138,B001,2025-06-10 15:37:00,20988.82,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000054,T0002372,C00020,B002,2025-06-10 15:51:00,7229.67,Cash Deposit,NL,30,Medium,Near-threshold cash deposit
+A000055,T0006023,C00138,B001,2025-06-10 17:37:00,13674.27,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000056,T0006001,C00173,B012,2025-06-13 04:16:00,9667.32,Cash Deposit,SG,30,Medium,Near-threshold cash deposit
+A000057,T0006002,C00173,B012,2025-06-13 04:51:00,9793.99,Cash Deposit,IN,30,Medium,Near-threshold cash deposit
+A000058,T0006003,C00173,B012,2025-06-13 05:26:00,7807.14,Cash Deposit,HK,30,Medium,Near-threshold cash deposit
+A000059,T0006004,C00173,B012,2025-06-13 06:01:00,8674.62,Cash Deposit,ES,30,Medium,Near-threshold cash deposit
+A000060,T0006005,C00173,B012,2025-06-13 06:36:00,7945.71,Cash Deposit,AU,30,Medium,Near-threshold cash deposit
+A000061,T0006006,C00173,B012,2025-06-13 07:11:00,8547.2,Cash Deposit,SG,30,Medium,Near-threshold cash deposit
+A000062,T0006007,C00173,B012,2025-06-13 07:46:00,8225.09,Cash Deposit,HK,30,Medium,Near-threshold cash deposit
+A000063,T0006008,C00173,B012,2025-06-13 08:21:00,9262.28,Cash Deposit,TR,50,High,Near-threshold cash deposit; High-risk jurisdiction
+A000064,T0003430,C00050,B008,2025-07-10 06:00:00,13238.59,Card,TR,45,High,High-value transaction; High-risk jurisdiction
+A000065,T0002526,C00074,B012,2025-07-21 11:57:00,7578.08,Cash Deposit,PL,30,Medium,Near-threshold cash deposit
+A000066,T0005479,C00186,B012,2025-07-24 09:34:00,10352.48,International Transfer,TR,45,High,High-value transaction; High-risk jurisdiction
+A000067,T0006178,C00095,B005,2025-08-03 22:54:00,29196.04,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000068,T0006179,C00095,B005,2025-08-04 00:54:00,25042.37,International Transfer,TR,45,High,High-value transaction; High-risk jurisdiction
+A000069,T0006180,C00095,B005,2025-08-04 02:54:00,40566.57,International Transfer,NG,45,High,High-value transaction; High-risk jurisdiction
+A000070,T0006181,C00095,B005,2025-08-04 04:54:00,33366.13,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000071,T0006182,C00095,B005,2025-08-04 06:54:00,26351.71,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000072,T0003330,C00269,B007,2025-08-07 13:56:00,5607.47,International Transfer,NG,40,High,High-risk jurisdiction; PEP with elevated transaction
+A000073,T0003093,C00141,B006,2025-08-22 00:31:00,8051.17,Cash Deposit,GB,30,Medium,Near-threshold cash deposit
+A000074,T0001154,C00263,B010,2025-08-25 01:05:00,7642.57,Cash Deposit,ES,30,Medium,Near-threshold cash deposit
+A000075,T0006159,C00263,B002,2025-09-27 05:51:00,1895.27,Transfer,NG,45,High,High-risk jurisdiction; Unusually high transaction velocity
+A000076,T0006160,C00263,B002,2025-09-27 05:58:00,5023.8,Transfer,NG,45,High,High-risk jurisdiction; Unusually high transaction velocity
+A000077,T0006074,C00100,B009,2025-09-27 07:40:00,19368.57,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000078,T0006075,C00100,B009,2025-09-27 09:40:00,31604.16,International Transfer,TR,45,High,High-value transaction; High-risk jurisdiction
+A000079,T0006076,C00100,B009,2025-09-27 11:40:00,30620.04,International Transfer,NG,45,High,High-value transaction; High-risk jurisdiction
+A000080,T0006077,C00100,B009,2025-09-27 13:40:00,18715.97,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000081,T0006078,C00100,B009,2025-09-27 15:40:00,28216.31,International Transfer,AE,45,High,High-value transaction; High-risk jurisdiction
+A000082,T0003383,C00042,B005,2025-09-28 05:51:00,8727.94,Cash Deposit,DE,30,Medium,Near-threshold cash deposit
+A000083,T0005477,C00089,B002,2025-10-08 05:31:00,11782.36,International Transfer,NG,45,High,High-value transaction; High-risk jurisdiction
+A000084,T0004567,C00223,B011,2025-10-13 09:59:00,8466.58,Cash Deposit,AE,50,High,Near-threshold cash deposit; High-risk jurisdiction
+A000085,T0000910,C00114,B002,2025-11-05 12:19:00,7180.97,Cash Deposit,TR,50,High,Near-threshold cash deposit; High-risk jurisdiction
+A000086,T0004241,C00180,B007,2025-11-07 01:58:00,10905.85,Transfer,NG,45,High,High-value transaction; High-risk jurisdiction
+A000087,T0006098,C00156,B006,2025-11-25 22:30:00,5592.83,Transfer,TR,45,High,High-risk jurisdiction; Unusually high transaction velocity
+A000088,T0006099,C00156,B006,2025-11-25 22:37:00,5632.81,Transfer,AE,45,High,High-risk jurisdiction; Unusually high transaction velocity
+A000089,T0003472,C00245,B005,2025-12-06 01:35:00,8664.58,Cash Deposit,IN,30,Medium,Near-threshold cash deposit
+A000090,T0005266,C00248,B008,2025-12-13 12:34:00,8328.15,Cash Deposit,PL,30,Medium,Near-threshold cash deposit

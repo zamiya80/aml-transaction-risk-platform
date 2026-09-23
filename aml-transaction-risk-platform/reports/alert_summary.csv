@@ -1,0 +1,5 @@
+risk_tier,alert_count,total_value,average_value
+Low,0,0.0,
+Medium,35,304033.94,8686.684
+High,55,1023007.99,18600.145272727274
+Critical,0,0.0,
