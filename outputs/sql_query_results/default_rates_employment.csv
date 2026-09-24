@@ -1,0 +1,7 @@
+employment_type,total_customers,total_defaults,default_rate_pct,avg_risk_score,avg_debt_to_income
+Unemployed,1608,437,27.18,41.39,0.297
+Student,1220,223,18.28,35.22,0.285
+Unknown,205,37,18.05,33.2,0.298
+Self-Employed,3260,586,17.98,33.56,0.295
+Retired,3043,465,15.28,31.41,0.289
+Employed,11164,1489,13.34,29.91,0.294

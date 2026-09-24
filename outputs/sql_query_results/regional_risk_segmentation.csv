@@ -1,0 +1,14 @@
+region,total_customers,avg_risk_score,low_risk_count,medium_risk_count,high_risk_count,pct_high_risk
+Wales,853,32.74,393,317,143,16.76
+Scotland,1165,32.42,573,400,192,16.48
+Yorkshire and the Humber,1466,32.11,726,507,233,15.89
+North East,1099,32.18,542,384,173,15.74
+North West,1954,32.09,966,690,298,15.25
+Unknown,205,33.2,93,81,31,15.12
+London,4121,32.06,2028,1477,616,14.95
+East Midlands,1436,31.91,721,501,214,14.9
+South West,1592,31.73,814,545,233,14.64
+South East,2584,31.64,1309,901,374,14.47
+East of England,1635,31.78,836,565,234,14.31
+West Midlands,1813,31.52,970,588,255,14.07
+Northern Ireland,577,31.62,283,216,78,13.52

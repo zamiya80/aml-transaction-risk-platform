@@ -1,0 +1,21 @@
+# Insurance & Lending Risk Analysis & Predictive Modeling
+# Install with: pip install -r requirements.txt
+
+# Data engineering
+pandas>=2.2
+numpy>=1.26
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.22
+
+# Predictive modeling
+scikit-learn>=1.5
+
+# Interactive dashboard
+streamlit>=1.35
+
+# SQL / database (SQLite ships with Python; SQLAlchemy included for
+# anyone pointing the project at Postgres/MySQL instead)
+SQLAlchemy>=2.0

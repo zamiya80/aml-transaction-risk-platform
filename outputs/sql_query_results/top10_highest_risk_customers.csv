@@ -1,0 +1,11 @@
+customer_id,region,employment_type,credit_score,debt_to_income,claim_count,risk_score,risk_category,default_flag
+100214,North West,Unemployed,491.0,1.079,3.0,84.29,High,1
+107863,London,Self-Employed,433.0,0.989,3.0,80.73,High,1
+108167,East Midlands,Self-Employed,402.0,0.583,4.0,74.66,High,0
+108176,London,Unemployed,466.0,0.991,1.0,73.76,High,1
+113901,West Midlands,Unemployed,548.0,0.739,3.0,73.62,High,0
+120105,East of England,Unemployed,468.0,0.967,1.0,73.02,High,1
+110034,Unknown,Unknown,570.0,0.966,4.0,72.01,High,1
+109372,London,Unemployed,588.0,0.789,3.0,71.96,High,0
+107289,Wales,Unemployed,545.0,0.573,4.0,71.51,High,1
+115603,East of England,Student,513.0,0.705,4.0,71.13,High,0

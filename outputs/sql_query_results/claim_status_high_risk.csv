@@ -1,0 +1,4 @@
+risk_category,total_claims,approved_claims,rejected_claims,approval_rate_pct,rejection_rate_pct,avg_claim_value
+High,5259.0,2904.0,1038.0,55.22,19.74,2538.73
+Medium,6459.0,3482.0,1343.0,53.91,20.79,2450.5
+Low,3090.0,1717.0,627.0,55.57,20.29,2610.32
